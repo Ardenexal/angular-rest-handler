@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Alex Murray",
+        "email": "alexmurray400@hotmail.com"
+      },
+      "libraryName": {
+        "original": "angular-rest-handler",
+        "camelized": "angularRestHandler",
+        "dasherized": "angular-rest-handler",
+        "slugified": "angular-rest-handler",
+        "parts": [
+          "angular",
+          "rest",
+          "handler"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/angular-rest-handler",
+      "libraryUnitTestDirectory": "test/unit/angular-rest-handler",
+      "libraryUnitE2eDirectory": "test/e2e/angular-rest-handler"
+    }
+  }
+}
