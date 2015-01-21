@@ -13,4 +13,4 @@ Add
     <script src='bower_components/angular-rest-handler/dist/angular-rest-handler.js'></script>
 
 ##Add as dependancy
-   angular.module('myApp', ['angularRestHandler']);
+    angular.module('myApp', ['angularRestHandler']);
