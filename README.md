@@ -5,7 +5,6 @@
     bower install https://Ardenexal@bitbucket.org/inyerpocket/angular-rest-handler.git
 
 ##Usage
-Add
     <script src='/bower_components/angular-rest-handler/dist/angular-rest-handler.min.js'></script>
 
 ### OR
